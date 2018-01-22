@@ -1,0 +1,14 @@
+body#tinymce .kainalo-block { 
+   color: red;
+}
+body#tinymce .kainalo-block:before {
+    content:"kainalo";
+    font-size: 10px;
+}
+body#tinymce .nosto {
+    color: green;
+}
+body#tinymce .nosto:before {
+    content:"nosto";
+    font-size: 10px;
+}
